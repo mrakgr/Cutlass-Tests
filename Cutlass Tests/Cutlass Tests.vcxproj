@@ -44,7 +44,7 @@
     <LinkIncremental>true</LinkIncremental>
     <PublicIncludeDirectories>
     </PublicIncludeDirectories>
-    <IncludePath>G:\cutlass-3.5.0\include;G:\cutlass-3.5.0\tools\util\include;$(IncludePath)</IncludePath>
+    <IncludePath>G:\cutlass-3.5.0\examples\common;G:\cutlass-3.5.0\include;G:\cutlass-3.5.0\tools\util\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
